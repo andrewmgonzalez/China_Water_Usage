@@ -12,11 +12,7 @@ The dataset is comprised of 87 variables grouped into six categories: (1) water 
 
 ## Authors
 
-Andrew Gonzalez
-Brandon Chou
-Charles Li
-Djavan De Clercq
-Rinitha Reddy
+Andrew Gonzalez, Brandon Chou, Charles Li, Djavan De Clercq, Rinitha Reddy
 
 ## Acknowledgments
 
